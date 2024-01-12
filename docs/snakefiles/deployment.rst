@@ -58,7 +58,7 @@ Visit the `Snakemake Workflows Project <https://github.com/snakemake-workflows/d
 .. _use_with_modules:
 
 -----------------------------------------
-Using and combining pre-exising workflows
+Using and combining pre-existing workflows
 -----------------------------------------
 
 Via the :ref:`module/use <snakefiles-modules>` system introduced with Snakemake 6.0, it is very easy to deploy existing workflows for new projects.
